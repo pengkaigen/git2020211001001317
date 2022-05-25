@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/git工作.iml" filepath="$PROJECT_DIR$/git工作.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/gitword.iml" filepath="$PROJECT_DIR$/.idea/gitword.iml" />
     </modules>
   </component>
 </project>
